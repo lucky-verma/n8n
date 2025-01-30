@@ -1,4 +1,42 @@
-# ProjectTemplate-Python
+# n8n Agentic Workflow  
+
+## What is n8n?
+
+n8n is a free and open-source platform for creating and running AI workflows.
+
+## Getting started
+
+```bash
+cd self-hosted-ai-starter-kit
+docker compose up
+```
+
+Open <http://localhost:5678/> in your browser to get started.
+
+---
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/xinntao/HandyView.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/xinntao/HandyView/context:python)
 [![download](https://img.shields.io/github/downloads/xinntao/Real-ESRGAN/total.svg)](https://github.com/xinntao/Real-ESRGAN/releases)
